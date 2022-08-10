@@ -1,0 +1,99 @@
+/* Configurações gerais=============================================================*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    background-color: #61226f;
+}
+h1, h2, h3 h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: bold;
+    font-weight: 2000;
+   
+}
+span{
+    color: #FAF200;
+}
+strong{
+    font-size: bold;
+    font-weight: 2000;
+}
+/*Configurações gerais==============================================================*/
+
+
+/*Confugurações do Header===========================================================*/
+header{
+    width: 300px;
+    margin: auto;
+    padding: 34px
+}
+header h1{
+    height: 150px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #44174e;
+}
+.milk{
+    color: yellow;
+}
+header p{
+    text-align: center;
+    margin-top: 16px;
+    font-size: bold;
+}
+/*Confugurações do Header===========================================================*/
+
+/*Configurações das Sessões=========================================================*/
+section{
+    width: 300px;
+    margin:auto;
+    margin-bottom: 24px;
+}
+h2{
+    padding: 4px;
+    background-color: #a326bf; 
+    box-shadow: 1px 5px 12px #000;
+}
+h3{
+    color: #FADE17;
+}
+section p{
+    margin-bottom: 8px;
+}
+.sabores h3{
+    margin-bottom: 16px;
+    text-align: center;
+    border-bottom:2px solid #FADE17;
+}
+.sabores ul li{
+    display: block;
+    margin-bottom: 12px;
+}
+.sabores ul li h4{
+    color: #FADE17;
+}
+.sabores ul li p{
+    margin-bottom: 8px;
+}
+section h2{
+    text-align: center;
+    margin-bottom: 16px;
+}
+section ul li{
+    display: flex;
+    list-style: none;
+    margin-bottom: 8px;
+}
+.mod li{
+    justify-content: space-between;
+}
+.footer{
+    margin-top: 16px;
+    text-align: center;
+    border-top: 2px solid #FADE17;
+}
+/*Configurações das Sessões=========================================================*/
