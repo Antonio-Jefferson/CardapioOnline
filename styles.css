@@ -36,6 +36,7 @@ header h1{
     text-align: center;
     border-radius: 50%;
     background-color: #44174e;
+    box-shadow: 8px 10px 20px rgba(26, 26, 26, 0.998);
 }
 .milk{
     color: yellow;
@@ -56,7 +57,7 @@ section{
 h2{
     padding: 4px;
     background-color: #a326bf; 
-    box-shadow: 1px 5px 12px #000;
+    box-shadow: 0px 10px 40px rgba(25, 25, 25, 0.963);
 }
 h3{
     color: #FADE17;
