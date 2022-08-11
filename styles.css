@@ -91,9 +91,15 @@ section ul li{
 .mod li{
     justify-content: space-between;
 }
+
+/*Configurações das Sessões=========================================================*/
+
+/*Configurações do footer*/
 .footer{
     margin-top: 16px;
     text-align: center;
     border-top: 2px solid #FADE17;
 }
-/*Configurações das Sessões=========================================================*/
+.footer p{
+    margin-top: 4px;
+}
